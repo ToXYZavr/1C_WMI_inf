@@ -1,1 +1,1 @@
-﻿Form\WMI\Форма.bsl-->3926d7f5-cbdd-4bff-bba8-be1299cf132a.0 (1 469, 1 692)
+﻿Form\WMI\Форма.bsl-->7d4a04be-732b-498d-885c-cb8291dbad8e.0 (1 469, 1 692)
