@@ -1,6 +1,9 @@
 ﻿{4,
-{1,
-{7d4a04be-732b-498d-885c-cb8291dbad8e,7d4a04be-732b-498d-885c-cb8291dbad8e,1,
+{2,
+{090f6662-6f66-4a47-892c-28961c64ac51,090f6662-6f66-4a47-892c-28961c64ac51,1,
+{c3831ec8-d8d5-4f93-8a22-f9bfae07327f,"WMIComputerInformation"}
+},
+{3ee033c8-67b9-482c-b155-c48eefd29e26,3ee033c8-67b9-482c-b155-c48eefd29e26,1,
 {d5b0e5ed-256d-401c-9c36-f630cafd8a62,"WMI"}
 }
 },
